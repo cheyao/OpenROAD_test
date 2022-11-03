@@ -1,0 +1,7 @@
+OpenROAD v2.0-5464-g1d2747471 
+This program is licensed under the BSD-3 license. See the LICENSE file for details.
+Components of this program may be licensed under more restrictive licenses which must be honored.
+[WARNING STA-0320] current_design for other than top cell not supported.
+[ERROR PDN-0185] Insufficient width (3.22 um) to add straps on layer met4 in grid "grid" with total strap width 15.17 um and offset 13.57 um.
+Error: pdn.tcl, 23 PDN-0185
+        0.83 real         0.73 user         0.06 sys
