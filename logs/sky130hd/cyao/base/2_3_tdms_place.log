@@ -1,6 +1,0 @@
-OpenROAD v2.0-5464-g1d2747471 
-This program is licensed under the BSD-3 license. See the LICENSE file for details.
-Components of this program may be licensed under more restrictive licenses which must be honored.
-[WARNING STA-0320] current_design for other than top cell not supported.
-No macros found: Skipping global_placement
-        0.85 real         0.74 user         0.07 sys

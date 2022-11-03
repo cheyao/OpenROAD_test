@@ -1,4 +1,4 @@
-export DESIGN_NICKNAME = cyao # Yeah don't mind me using my name, still haven't thought of a good one
+export DESIGN_NICKNAME = cyao# Yeah don't mind me using my name, still haven't thought of a good one
 export DESIGN_NAME = cyao_core
 export PLATFORM    = sky130hd
 
